@@ -9,8 +9,9 @@ permission of a registered officer of Sharper Hacks LLC (US-WA).
 
 Logos contained in this repo are copyright by Joseph W Donahue and Sharper Hacks LLC (US-WA).
 
-Permission to display, in conjunction with distribution (ie; in packages, repositories, etc) of unmodified OSS content, created by
-the copyright holders, listed above, is hereby granted. You may not use the logo or other artwork, herein, in a way that implies 
-endorsement, sponsorship, or affiliation with the original project or its creators, unless explicitly permitted, in writing, prior
-such use.
+Permission to display, in conjunction with distribution (ie; in packages, repositories, etc) 
+of unmodified OSS content, created by the copyright holders, listed above, is hereby granted. 
+You may not use the logo or other artwork, herein, in a way that implies endorsement, 
+sponsorship, or affiliation with the original project or its creators, unless explicitly
+permitted, in writing, prior to such use.
 
