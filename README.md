@@ -1,5 +1,7 @@
 ![SharperHacks logo](images/SHLLC-Logo.png)
-# Sharper Hacks asset collection.
+# THIS PROJECT MOVED TO [codeberg.org](https://codeberg.org/SharperHacks-org/Assets)
+# THIS REPO WILL BE REMOVED.
+## Sharper Hacks asset collection.
 
 Contact: joseph@sharperhacksllc.com
 
